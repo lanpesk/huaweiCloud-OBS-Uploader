@@ -15,7 +15,7 @@
 * AccessKeyId：你的私钥ID，你可以在华为云，"我的凭证/访问密钥"中创建或查询
 * AccessKeySecret: 你的私钥，同AccessKeyId获取
 * BucketName：需要上传的桶名称
-* UploadPath：上传路径
+* UploadPath：上传路径，如果没有特点文件夹需求的话，请输入'/'
 * Endpoint：接入点，可以在控制台查询
 
 例如：
